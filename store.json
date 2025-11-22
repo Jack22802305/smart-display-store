@@ -1,7 +1,9 @@
 {
   "version": "1.0.0",
-  "updated": "2024-11-23T00:00:00Z",
-  "featured": ["test_image"],
+  "updated": "2025-11-22T15:09:27.882Z",
+  "featured": [
+    "test_image"
+  ],
   "categories": [
     "all",
     "apps",
@@ -22,12 +24,34 @@
       "type": "static",
       "downloadUrl": "https://github.com/Jack22802305/smart-display-store/raw/main/packages/test_image-v1.0.0.zip",
       "downloads": 0,
-      "rating": 5.0,
+      "rating": 5,
       "screenshots": [
         "https://raw.githubusercontent.com/Jack22802305/smart-display-store/main/screenshots/test_image/screenshot1.png"
       ],
       "fileSize": 1331,
-      "tags": ["test", "image", "static"],
+      "tags": [
+        "test",
+        "image",
+        "static"
+      ],
+      "requiresAuth": false,
+      "minAppVersion": "1.0.0"
+    },
+    {
+      "id": "charizard",
+      "name": "Charizard",
+      "version": "1.0.0",
+      "author": "Simple Jack",
+      "description": "pokemon cool test",
+      "category": "gifs",
+      "icon": "✨",
+      "type": "static",
+      "downloadUrl": "https://github.com/jack22802305/smart-display-store/raw/main/packages/charizard-v1.0.0.zip",
+      "downloads": 0,
+      "rating": 5,
+      "screenshots": [],
+      "fileSize": 457,
+      "tags": [],
       "requiresAuth": false,
       "minAppVersion": "1.0.0"
     }
