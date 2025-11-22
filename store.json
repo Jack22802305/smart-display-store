@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated": "2025-11-22T15:09:27.882Z",
+  "updated": "2025-11-22T15:37:20.499Z",
   "featured": [
     "test_image"
   ],
@@ -51,6 +51,26 @@
       "rating": 5,
       "screenshots": [],
       "fileSize": 457,
+      "tags": [],
+      "requiresAuth": false,
+      "minAppVersion": "1.0.0"
+    },
+    {
+      "id": "gesrgerg",
+      "name": "gesrgerg",
+      "version": "1.0.0",
+      "author": "Simple Jack",
+      "description": "sergserg",
+      "category": "decals",
+      "icon": "🎬",
+      "type": "static",
+      "downloadUrl": "https://github.com/jack22802305/smart-display-store/raw/main/packages/gesrgerg-v1.0.0.zip",
+      "downloads": 0,
+      "rating": 5,
+      "screenshots": [
+        "https://raw.githubusercontent.com/jack22802305/smart-display-store/main/screenshots/gesrgerg/screenshot1.png"
+      ],
+      "fileSize": 439,
       "tags": [],
       "requiresAuth": false,
       "minAppVersion": "1.0.0"
