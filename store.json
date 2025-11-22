@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "updated": "2024-11-23T00:00:00Z",
+  "featured": ["test_image"],
+  "categories": [
+    "all",
+    "apps",
+    "graphics",
+    "decals",
+    "gifs",
+    "widgets"
+  ],
+  "modes": [
+    {
+      "id": "test_image",
+      "name": "Test Image Display",
+      "version": "1.0.0",
+      "author": "You",
+      "description": "A simple test mode that displays a static image. Perfect for testing the app store download and installation system. This is your first test upload!",
+      "category": "decals",
+      "icon": "🖼️",
+      "type": "static",
+      "downloadUrl": "https://github.com/Jack22802305/smart-display-store/raw/main/packages/test_image-v1.0.0.zip",
+      "downloads": 0,
+      "rating": 5.0,
+      "screenshots": [
+        "https://raw.githubusercontent.com/Jack22802305/smart-display-store/main/screenshots/test_image/screenshot1.png"
+      ],
+      "fileSize": 1331,
+      "tags": ["test", "image", "static"],
+      "requiresAuth": false,
+      "minAppVersion": "1.0.0"
+    }
+  ]
+}
